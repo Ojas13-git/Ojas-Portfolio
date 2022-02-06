@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Ojas-Portfolio/static/css/main.4b0fdecb.chunk.css",
+    "main.js": "/Ojas-Portfolio/static/js/main.16f93b10.chunk.js",
+    "main.js.map": "/Ojas-Portfolio/static/js/main.16f93b10.chunk.js.map",
+    "runtime-main.js": "/Ojas-Portfolio/static/js/runtime-main.9aa1939d.js",
+    "runtime-main.js.map": "/Ojas-Portfolio/static/js/runtime-main.9aa1939d.js.map",
+    "static/js/2.42501594.chunk.js": "/Ojas-Portfolio/static/js/2.42501594.chunk.js",
+    "static/js/2.42501594.chunk.js.map": "/Ojas-Portfolio/static/js/2.42501594.chunk.js.map",
+    "index.html": "/Ojas-Portfolio/index.html",
+    "static/css/main.4b0fdecb.chunk.css.map": "/Ojas-Portfolio/static/css/main.4b0fdecb.chunk.css.map",
+    "static/js/2.42501594.chunk.js.LICENSE.txt": "/Ojas-Portfolio/static/js/2.42501594.chunk.js.LICENSE.txt",
+    "static/media/award.627beb57.png": "/Ojas-Portfolio/static/media/award.627beb57.png",
+    "static/media/email.a49e0158.png": "/Ojas-Portfolio/static/media/email.a49e0158.png",
+    "static/media/instagram.8e408da0.png": "/Ojas-Portfolio/static/media/instagram.8e408da0.png",
+    "static/media/moon.3bea3d39.png": "/Ojas-Portfolio/static/media/moon.3bea3d39.png",
+    "static/media/ojas.f613b811.png": "/Ojas-Portfolio/static/media/ojas.f613b811.png",
+    "static/media/ojas2.ec948e16.png": "/Ojas-Portfolio/static/media/ojas2.ec948e16.png",
+    "static/media/phone.d90a6d23.png": "/Ojas-Portfolio/static/media/phone.d90a6d23.png",
+    "static/media/sun.f794832a.png": "/Ojas-Portfolio/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aa1939d.js",
+    "static/js/2.42501594.chunk.js",
+    "static/css/main.4b0fdecb.chunk.css",
+    "static/js/main.16f93b10.chunk.js"
+  ]
+}
