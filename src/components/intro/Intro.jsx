@@ -24,7 +24,7 @@ const Intro = () => {
             </div>
             <p className="i-desc">
               I am a 2nd year Computer Science student @The LNM Institute of Information Technology, Jaipur.
-              Council Member ACM LNMIIT. Constantly Learning Different Things.
+              Council Member ACM LNMIIT. Constantly Learning Different Things. 
             </p>
           </div>
           <svg

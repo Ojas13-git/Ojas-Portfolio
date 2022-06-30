@@ -26,7 +26,22 @@ export const products = [
     },
     {
       id: 6,
-      img: "",
-      link: "http://lama.dev",
+      img: "https://i.ibb.co/2Pv6NhP/p1.png",
+      link: "https://ojas13-git.github.io/website-author/",
     },
+    {
+      id: 7,
+      img: "https://i.ibb.co/G9rSSzc/p2.png",
+      link: "https://ojas13-git.github.io/Netflix-clone-React.js/",
+    },
+    {
+      id: 8,
+      img: "https://i.ibb.co/nRVJy0d/p3.png",
+      link: "https://github.com/Ojas13-git/ZChat-Realtime-Chat-App",
+    },
+    // {
+    //   id: 8,
+    //   img: "",
+    //   link: "",
+    // }
   ];

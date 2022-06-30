@@ -24,8 +24,8 @@ const About = () => {
           </p>
           <br />
           <p className="a-desc">
-            I am a freelance Web Developer. Actively freelancing on UpWork.
-            Chiefly skilled in Front End Development: HTML, CSS, JavaScript, BootStrap, React.js and C/C++.
+            I am a freelance Web Developer. Actively freelancing on UpWork and with CreativeCoders Technologies LLP.
+            Chiefly skilled in Front End Development: HTML, CSS, JavaScript, BootStrap, React.js, Node.js, Express.js, MongoDB, Mongoose API and C/C++.
           </p>
           <div className="a-award">
             <a href="https://www.upwork.com/freelancers/~01eda2b54f435d7301"><img src={Award} alt="" className="a-award-img"/></a>
